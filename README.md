@@ -1,8 +1,5 @@
-# React + Vite
+# GAE MAI ROD NAE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- (Visit GAEMAIRODNAE)[konesan.netlify.app]
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://cdn.discordapp.com/attachments/960423388369813514/1214132041025855508/image.png?ex=65f7ff94&is=65e58a94&hm=c84a6eaec9dbcdd9205be46edd96b9ae5ae12cd8611a5c517bd71af7281f4949&" />
