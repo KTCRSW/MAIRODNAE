@@ -1,6 +1,5 @@
 # GAE MAI ROD NAE
 
-mobile css just bruh
 
 <a href="https://konesan.netlify.app">KON ESAN</a>
 
